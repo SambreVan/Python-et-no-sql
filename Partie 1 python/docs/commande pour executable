@@ -1,0 +1,1 @@
+ pyinstaller --onefile --name=CHACHA --noconsole --icon=.\ressources\chat.ico .\app\run_app.py
